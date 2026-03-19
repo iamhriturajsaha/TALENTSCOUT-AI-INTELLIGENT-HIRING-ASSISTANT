@@ -322,7 +322,6 @@
 
 # Run Streamlit App
 from pyngrok import ngrok
-ngrok.set_auth_token("2z0Oqv0tD166fELGCHwV2gLZwq1_2G2zUQRSs6C27k9vdzxwq")
 ngrok.kill()
 get_ipython().system_raw('streamlit run app.py --server.port 8501 &')
 public_url = ngrok.connect(8501)
