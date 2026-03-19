@@ -7,48 +7,38 @@ TalentScout AI – Intelligent Hiring Assistant is an AI-powered conversational 
 ## 🚀 Key Features
 
 ### 🤖 AI-Powered Conversational Interface
-
 * Interactive chatbot built using Streamlit.
 * Multi-turn conversation with context awareness.
 * Structured step-by-step candidate data collection.
 
 ### 🧠 Dynamic Technical Question Generation
-
 * Generates 3–5 tailored questions per technology.
 * Adapts difficulty based on candidate experience.
 * Covers real-world and scenario-based questions.
 
 ### 🔄 Context-Aware Interaction
-
 * Maintains full conversation history.
 * Ensures coherent and relevant responses.
 
 ### 📊 Sentiment Analysis
-
 * Uses VADER sentiment analysis.
 * Classifies candidate responses as -
-
   * Positive.
   * Neutral.
   * Negative.
 
 ### 🧩 Tech Stack Normalization
-
 * Converts informal inputs -
-
   * `py → Python`
   * `reactjs → React`
 * Ensures consistency in question generation.
 
 ### 💾 Data Persistence
-
 * Stores candidate data in -
-
   * SQLite database.
   * JSON file export.
 
 ### 🎨 Enhanced UI/UX
-
 * Clean chat interface.
 * Progress tracking bar.
 * Loading spinner for AI responses.
