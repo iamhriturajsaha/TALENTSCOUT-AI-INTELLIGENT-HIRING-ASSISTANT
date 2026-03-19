@@ -66,9 +66,7 @@ User → Streamlit UI → Session State Manager → Prompt Engine → Groq LLM �
 The system uses multiple structured prompts -
 
 ### 1. Information Gathering Prompt
-
 Guides the chatbot to collect -
-
 * Name.
 * Email.
 * Phone.
@@ -78,18 +76,15 @@ Guides the chatbot to collect -
 * Tech Stack.
 
 ### 2. Question Generation Prompt
-
 * Generates technical questions based on tech stack.
 * Adapts to experience level.
 * Focuses on practical scenarios.
 
 ### 3. Contextual Prompt
-
 * Maintains conversation continuity.
 * Uses full chat history.
 
 ### 4. Fallback Prompt
-
 * Handles unexpected or irrelevant inputs.
 * Redirects conversation to hiring flow.
 
