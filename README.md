@@ -2,9 +2,7 @@
 
 ## 📌 Project Overview
 
-**TalentScout AI – Intelligent Hiring Assistant** is an AI-powered conversational system designed to automate the initial screening process of candidates for technical roles. The system leverages Large Language Models (LLMs) to intelligently collect candidate information, analyze sentiment and dynamically generate technical interview questions based on the candidate’s declared tech stack.
-
-This project demonstrates the integration of LLMs, prompt engineering, conversational AI and full-stack development to build a real-world recruitment automation tool.
+TalentScout AI – Intelligent Hiring Assistant is an AI-powered conversational system designed to automate the initial screening process of candidates for technical roles. The system leverages Large Language Models (LLMs) to intelligently collect candidate information, analyze sentiment and dynamically generate technical interview questions based on the candidate’s declared tech stack. This project demonstrates the integration of LLMs, prompt engineering, conversational AI and full-stack development to build a real-world recruitment automation tool.
 
 ## 🚀 Key Features
 
